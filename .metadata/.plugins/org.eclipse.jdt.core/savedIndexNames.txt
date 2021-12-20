@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+C:\Users\hades\Desktop\Projeto Tolerancia\.metadata\.plugins\org.eclipse.jdt.core
+2282348261.index
+2975875218.index
+1865797976.index
+901584925.index
+4167665911.index
