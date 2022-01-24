@@ -7,12 +7,11 @@ class FacadeLimiteOps3 implements ILimiteOps3 {
 
 	@Override
 	/**
-	 * 30% do salario do cliente
-	 * Deve retornar valor >=0
+	 * 30% do salario do cliente Deve retornar valor >=0
 	 */
 	public double calcularLimite(ClienteDT3 client) {
-		double limite = client.salario*0.30;
-		if(limite >= 0)
+		double limite = client.salario * 0.30;
+		if (limite >= 0)
 			return limite;
 		else
 			return 0;

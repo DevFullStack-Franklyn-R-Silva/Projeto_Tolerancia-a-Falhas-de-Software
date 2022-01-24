@@ -4,5 +4,4 @@ INDEX VERSION 1.131+C:\Users\hades\Desktop\Projeto Tolerancia\.metadata\.plugins
 1865797976.index
 1935809715.index
 901584925.index
-4167665911.index
 83498214.index
