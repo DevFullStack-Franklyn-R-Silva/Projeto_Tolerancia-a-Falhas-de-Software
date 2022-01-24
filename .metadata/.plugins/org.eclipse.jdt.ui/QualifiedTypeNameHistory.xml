@@ -7,10 +7,17 @@
     <fullyQualifiedTypeName name="br.ufal.aracomp.cosmos.limite.spec.dt.ClienteDT"/>
     <fullyQualifiedTypeName name="java.lang.Double"/>
     <fullyQualifiedTypeName name="java.util.Locale"/>
-    <fullyQualifiedTypeName name="java.lang.Exception"/>
     <fullyQualifiedTypeName name="br.ufal.aracomp.cosmos.emprestimo.spec.prov.IManager"/>
     <fullyQualifiedTypeName name="br.ufal.aracomp.cosmos.limite.spec.prov.IManager"/>
     <fullyQualifiedTypeName name="br.ufal.aracomp.cosmos.limite.impl.ComponentFactory"/>
     <fullyQualifiedTypeName name="br.ufal.aracomp.cosmos.limite.spec.prov.ILimiteOps"/>
     <fullyQualifiedTypeName name="br.ufal.cosmos.connectorSimples.ConnectorSimples"/>
+    <fullyQualifiedTypeName name="br.ufal.cosmos.exceptions.ConnectorException"/>
+    <fullyQualifiedTypeName name="br.ufal.cosmos.connectorSimples.ConnectorEmprestimoLimite"/>
+    <fullyQualifiedTypeName name="br.ufal.aracomp.cosmos.limite2.spec.dt.ClienteDT2"/>
+    <fullyQualifiedTypeName name="br.ufal.aracomp.cosmos.limite2.spec.prov.ILimiteOps2"/>
+    <fullyQualifiedTypeName name="br.ufal.cosmos.exceptions.ServicoNaoConfiavelException"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="java.lang.RuntimeException"/>
 </qualifiedTypeNameHistroy>
